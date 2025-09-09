@@ -1,4 +1,4 @@
-![Stunning Paris Airbnb](![image.png](attachment:5b451429-db19-479f-acc7-40415151e63d.png)![image.png])
+![Stunning Paris Airbnb](![image.png](attachment:5b451429-db19-479f-acc7-40415151e63d.png))
 
 
 # 🏠 Airbnb Paris Analysis
