@@ -1,5 +1,5 @@
 ![Paris Airbnb View](https://news.airbnb.com/wp-content/uploads/sites/4/2019/06/PJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg?resize=2048,1365)
-
+[CLICK HERE FOR KAGGLE CODE](https://www.kaggle.com/code/harshgaikwad1211/airbnb-b6-final-analysis/edit/run/260633919)
 # 🏠 Airbnb Paris Analysis
 
 This project explores the evolution of the Airbnb market in Paris, focusing on how regulations, locality trends, and pricing dynamics have influenced both **host participation** and **customer demand**.
