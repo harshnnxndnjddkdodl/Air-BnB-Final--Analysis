@@ -1,5 +1,4 @@
-![Stunning Paris Airbnb]([image.png](attachment:5b451429-db19-479f-acc7-40415151e63d.png))
-
+![Paris Airbnb View](https://news.airbnb.com/wp-content/uploads/sites/4/2019/06/PJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg?resize=2048,1365)
 
 # 🏠 Airbnb Paris Analysis
 
